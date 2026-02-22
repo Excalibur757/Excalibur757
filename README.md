@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kevin
 
-<!--
-**Excalibur757/Excalibur757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end Developer  
+🚀 Criador do Horizon VTubers  
+🎯 Foco em Next.js, React e construção de interfaces modernas
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Next.js
+- React
+- TailwindCSS
+- TypeScript
+- JavaScript
+- Node.js (em evolução)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projeto Principal
+🔹 Horizon VTubers – Plataforma para divulgação de VTubers independentes
+
+## 🚀 Atualmente
+- Desenvolvendo o Horizon VTubers
+- Evoluindo minhas habilidades em APIs e arquitetura
+
+## 🌱 Estudando
+- Estruturação de projetos escaláveis com Next.js
+- Boas práticas de organização e clean code
+
+## 🤝 Colaboração
+Aberto a colaborar em projetos web.
+
+## 📫 Contato
+- LinkedIn: [(Clique Aqui](https://www.linkedin.com/in/kevin-lemos-72733a278/)
+- Discord: yutsu_u
