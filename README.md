@@ -6,11 +6,11 @@
 
 # 👋 Olá, eu sou o Kevin!
 
-🎓 Estudante de tecnologia com foco em desenvolvimento Front-End.
+🎓 Estudante de tecnologia.
 
 🚀 Desenvolvedor Front-End focado na construção de interfaces modernas, organizadas e escaláveis com Next.js.
 
-🎯 Criador do **Horizon VTubers** — plataforma desenvolvida para apoiar VTubers independentes, conectando criadores e público através de uma experiência digital bem estruturada.
+🎯 Criador do [**Horizon VTubers**](https://horizonvtubers.vercel.app/) — plataforma desenvolvida para apoiar VTubers independentes, conectando criadores e público através de uma experiência digital bem estruturada.
 
 💡 Apaixonado por transformar ideias em produtos reais e evoluir constantemente em arquitetura de projetos, performance e boas práticas.
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Atualmente
 
-- Evoluindo o Horizon VTubers
+- Evoluindo o [Horizon VTubers](https://horizonvtubers.vercel.app/)
 - Aprofundando conhecimentos em APIs e integração com backend
 - Estudando arquitetura e organização de projetos com Next.js
 
