@@ -10,7 +10,7 @@
 
 🚀 Desenvolvedor Front-End focado na construção de interfaces modernas, organizadas e escaláveis com Next.js.
 
-🎯 Criador do [**Horizon VTubers**](https://horizonvtubers.vercel.app/) — plataforma desenvolvida para apoiar VTubers independentes, conectando criadores e público através de uma experiência digital bem estruturada.
+🎯 Criador do [**Horizon VTubers**](https://horizonvtubers.vercel.app/), plataforma desenvolvida para apoiar VTubers independentes, conectando criadores e público através de uma experiência digital bem estruturada.
 
 💡 Apaixonado por transformar ideias em produtos reais e evoluir constantemente em arquitetura de projetos, performance e boas práticas.
 
